@@ -8,7 +8,7 @@ Sarin\
 Pyhton3 and pandas is a Python package\
 We have used VS code 
 
-**WORKING**
+**WORKING**\
 Pre requisites\
 System intalled with Python3,pip3,VS code\
 Install pandas(used in data science)\
@@ -17,7 +17,7 @@ User can type in the set of columns or rows needed, and the corresponding data w
 Result will be stored in result.csv
 
 
-**ADVANTAGES**
+**ADVANTAGES**\
 Completely Open source\
 User friendly\
 Zero expense\
@@ -31,5 +31,5 @@ can change the format of test data sheet without affecting the data
 **FUTURE SCOPE**\
 We can turn this into an online platform\
 We can 100% automate the task\
-Orr run this weekly/Monthly so any changes made in the instance will replicate in the test data sheet
+Or run this weekly/Monthly so any changes made in the instance will replicate in the test data sheet
 
