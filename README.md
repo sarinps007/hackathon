@@ -8,7 +8,16 @@ Sarin\
 Pyhton3 and pandas is a Python package\
 We have used VS code 
 
-**ADVANTAGES**\
+**WORKING**
+Pre requisites\
+System intalled with Python3,pip3,VS code\
+Install pandas(used in data science)\
+Two files[any format(currently using(csv]\
+User can type in the set of columns or rows needed, and the corresponding data will be fectched and moved to the result folder\
+Result will be stored in result.csv
+
+
+**ADVANTAGES**
 Completely Open source\
 User friendly\
 Zero expense\
